@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently pursuing my BTech degree in CSE <br>👯 I’m looking for part time job<br>🤝 I’m a self learner<br>🌱 I’m currently learning c programming and DSA <br>💬 Ask me about<br>⚡ Fun fact
+i love you ramij
 
 
 # 💻 Tech Stack:
